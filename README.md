@@ -1,6 +1,6 @@
   <p align="center">  
   <a href="https://replit.com/@malithsehan/PasinduV5?v=1">
-    <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com/main.jpg" herf="https://replit.com/@malithsehan/PasinduV5?v=1">
+    <img alt="secktor docs" height="300" src="https://imgur.com/HdF6D7n.jpg" herf="https://replit.com/@malithsehan/PasinduV5?v=1">
     <h1 align="center">Secktor MD Whatsapp bot</h1>
   </a>
 </p>
